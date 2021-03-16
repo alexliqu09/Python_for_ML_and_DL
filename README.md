@@ -6,7 +6,7 @@ This course will learn about the fundamental of python apply to Machine Learning
 
  Topics | Notebook 
 --|--
-List  ,  dictionary and tuples  |  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">&nbsp; &nbsp;<a href="https://twitter.com/lique_alex" target="blank">
+List  ,  dictionary and tuples  | <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  Conditional and loops | <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 Files |  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 Exception |  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
