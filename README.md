@@ -12,7 +12,7 @@ This course will learn about the fundamental of python apply to Machine Learning
 
  Topics | Notebook 
 --|--
-List  ,  Dictionary and Tuples  |<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+List  ,  Dictionary and Tuples  | <a href="https://colab.research.google.com/github/alexliqu09/Python_for_ML_and_DL/blob/main/Notebooks/Class1.ipynb" ><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  Conditional and Loops | <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 Files |  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 Exception |  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
